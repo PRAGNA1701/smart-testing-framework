@@ -38,6 +38,7 @@ cd smart-testing-framework
 
 ```bash
 
+# Build and run tests
 mvn clean test
 
 ```
