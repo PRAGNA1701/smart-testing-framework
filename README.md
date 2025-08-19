@@ -25,14 +25,22 @@ The Smart Testing Framework is an independently developed **Selenium-based autom
 
 1. **Clone the repository:**
 
+```bash
+# Clone the repository
 git clone git@github.com:PRAGNA1701/smart-testing-framework.git
+
+# Navigate into the project directory
 cd smart-testing-framework
+
+```
 
 2. **Build and run tests using Maven:**
 
+```bash
+
 mvn clean test
 
-
+```
 3. **Test results and logs will be available in the target folder after execution.**
 
 ## Usage
