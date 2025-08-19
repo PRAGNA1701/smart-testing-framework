@@ -1,4 +1,4 @@
-mart Testing Framework
+Smart Testing Framework
 Overview
 
 The Smart Testing Framework is an independently developed Selenium-based automation framework for testing web applications. It is built using Java, TestNG, and Maven, and demonstrates skills in test automation, code design, and project organization.
