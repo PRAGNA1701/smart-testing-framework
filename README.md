@@ -1,9 +1,10 @@
-Smart Testing Framework
-Overview
+**Smart Testing Framework**
+
+**Overview**
 
 The Smart Testing Framework is an independently developed Selenium-based automation framework for testing web applications. It is built using Java, TestNG, and Maven, and demonstrates skills in test automation, code design, and project organization.
 
-Key Features
+**Key Features**
 
   1. Cross-Browser Testing: Uses Selenium WebDriver and WebDriverManager to manage browser drivers automatically.
 
@@ -15,7 +16,7 @@ Key Features
 
   5. Logging: Uses SLF4J and Logback for clear logging of test execution.
 
-Technologies Used
+**Technologies Used**
 
   1. Java 17
 
@@ -30,7 +31,7 @@ Technologies Used
   6. WebDriverManager
 
 
-Setup Instructions
+**Setup Instructions**
 
   1. Clone the repository:
 
@@ -45,11 +46,11 @@ Setup Instructions
 
   3. Test results and logs will be available in the target folder.
 
-Usage
+**Usage**
 
   This framework is a demonstration of independent work in automated testing. It can be used as a starting point for testing web applications or expanded for larger automation projects.
 
-Contact
+**Contact**
 
     Developer: PA
 
