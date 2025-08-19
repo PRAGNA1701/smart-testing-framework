@@ -47,7 +47,9 @@ This framework is an example of independently developed technical work in automa
 ## Contact
 
 **Developer**: PA
+
 **Email**: 21wh1a6657@bvrithyderabad.edu.in
+
 **GitHub**: PRAGNA1701
 
  
